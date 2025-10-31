@@ -1,0 +1,692 @@
+[
+ {
+        "saleNum": 2,
+        "saleDate":ISODate("2024-07-13T00:00:00Z"),
+        "items": [
+            {
+                "name": "envelopes",
+                "tags": [
+                    "stationary",
+                    "office",
+                    "general"
+                ],
+                "price": 8.05,
+                "quantity": 10
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 28.31,
+                "quantity": 9
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 20.95,
+                "quantity": 3
+            },
+            {
+                "name": "laptop",
+                "tags": [
+                    "electronics",
+                    "school",
+                    "office"
+                ],
+                "price": 866.5,
+                "quantity": 4
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 33.09,
+                "quantity": 4
+            },
+            {
+                "name": "printer paper",
+                "tags": [
+                    "office",
+                    "stationary"
+                ],
+                "price": 37.55,
+                "quantity": 1
+            },
+            {
+                "name": "backpack",
+                "tags": [
+                    "school",
+                    "travel",
+                    "kids"
+                ],
+                "price": 83.28,
+                "quantity": 2
+            },
+            {
+                "name": "pens",
+                "tags": [
+                    "writing",
+                    "office",
+                    "school",
+                    "stationary"
+                ],
+                "price": 42.9,
+                "quantity": 4
+            },
+            {
+                "name": "envelopes",
+                "tags": [
+                    "stationary",
+                    "office",
+                    "general"
+                ],
+                "price": 16.68,
+                "quantity": 2
+            }
+        ],
+        "storeLocation": "Seattle",
+        "customer": {
+            "passport": "26174848C",
+            "name": "Pedro Salgado",
+            "gender": "M",
+            "age": 50,
+            "email": "keecade@hem.uy",
+            "satisfaction": 5,
+            "comment": "Nice service. Delivered on time."
+        },
+        "couponUsed": false,
+        "purchaseMethod": "Phone"
+    },
+    {
+        "saleNum": 3,
+        "saleDate":ISODate("2024-09-29T00:00:00Z"),
+        "items": [
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 30.08,
+                "quantity": 1
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 24.68,
+                "quantity": 7
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 32.1,
+                "quantity": 4
+            },
+            {
+                "name": "pens",
+                "tags": [
+                    "writing",
+                    "office",
+                    "school",
+                    "stationary"
+                ],
+                "price": 31.41,
+                "quantity": 3
+            },
+            {
+                "name": "printer paper",
+                "tags": [
+                    "office",
+                    "stationary"
+                ],
+                "price": 43.56,
+                "quantity": 3
+            },
+            {
+                "name": "pens",
+                "tags": [
+                    "writing",
+                    "office",
+                    "school",
+                    "stationary"
+                ],
+                "price": 68.95,
+                "quantity": 4
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 8.57,
+                "quantity": 4
+            },
+            {
+                "name": "backpack",
+                "tags": [
+                    "school",
+                    "travel",
+                    "kids"
+                ],
+                "price": 106.6,
+                "quantity": 2
+            },
+            {
+                "name": "laptop",
+                "tags": [
+                    "electronics",
+                    "school",
+                    "office"
+                ],
+                "price": 596.33,
+                "quantity": 4
+            }
+        ],
+        "storeLocation": "Denver",
+        "customer": {
+            "passport": "06963666W",
+            "name": "Roberto Pastor",
+            "gender": "M",
+            "age": 51,
+            "email": "worbiduh@vowbu.cg",
+            "satisfaction": 5,
+            "comment": "I like this store!"
+        },
+        "couponUsed": false,
+        "purchaseMethod": "In store"
+    },
+    {
+        "saleNum": 4,
+        "saleDate":ISODate("2024-02-20T00:00:00Z"),
+        "items": [
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 20.08,
+                "quantity": 1
+            },
+            {
+                "name": "pens",
+                "tags": [
+                    "writing",
+                    "office",
+                    "school",
+                    "stationary"
+                ],
+                "price": 23.08,
+                "quantity": 4
+            },
+            {
+                "name": "backpack",
+                "tags": [
+                    "school",
+                    "travel",
+                    "kids"
+                ],
+                "price": 82.73,
+                "quantity": 2
+            },
+            {
+                "name": "printer paper",
+                "tags": [
+                    "office",
+                    "stationary"
+                ],
+                "price": 15.98,
+                "quantity": 3
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 27.24,
+                "quantity": 4
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 27.7,
+                "quantity": 5
+            },
+            {
+                "name": "pens",
+                "tags": [
+                    "writing",
+                    "office",
+                    "school",
+                    "stationary"
+                ],
+                "price": 59.86,
+                "quantity": 5
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 27.33,
+                "quantity": 9
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 13.59,
+                "quantity": 1
+            }
+        ],
+        "storeLocation": "Seattle",
+        "customer": {
+            "passport": "22613039Z",
+            "name": "Laura Jerez",
+            "gender": "F",
+            "age": 45,
+            "email": "vatires@ta.pe",
+            "satisfaction": 3,
+            "comment":"Good products, a bit expensive."
+        },
+        "couponUsed": false,
+        "purchaseMethod": "In store"
+    },
+    {
+        "saleNum": 5,
+        "saleDate":ISODate("2024-04-14T00:00:00Z"),
+        "items": [
+            {
+                "name": "backpack",
+                "tags": [
+                    "school",
+                    "travel",
+                    "kids"
+                ],
+                "price": 127.59,
+                "quantity": 3
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 17.6,
+                "quantity": 4
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 18.67,
+                "quantity": 2
+            },
+            {
+                "name": "pens",
+                "tags": [
+                    "writing",
+                    "office",
+                    "school",
+                    "stationary"
+                ],
+                "price": 60.56,
+                "quantity": 3
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 28.41,
+                "quantity": 1
+            },
+            {
+                "name": "envelopes",
+                "tags": [
+                    "stationary",
+                    "office",
+                    "general"
+                ],
+                "price": 15.28,
+                "quantity": 7
+            },
+            {
+                "name": "laptop",
+                "tags": [
+                    "electronics",
+                    "school",
+                    "office"
+                ],
+                "price": 1259.02,
+                "quantity": 3
+            }
+        ],
+        "storeLocation": "London",
+        "customer": {
+            "passport": "27774803A",
+            "name": "Juan Smith",
+            "gender": "M",
+            "age": 40,
+            "email": "dotzu@ib.sh",
+            "satisfaction": 4,
+            "comment": "Nice customer service, good products."
+        },
+        "couponUsed": false,
+        "purchaseMethod": "In store"
+    },
+    {
+        "saleNum": 6,
+        "saleDate":ISODate("2024-03-24T00:00:00Z"),
+        "items": [
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 13.44,
+                "quantity": 8
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 16.66,
+                "quantity": 10
+            }
+        ],
+        "storeLocation": "London",
+        "customer": {
+            "passport": "30307839A",
+            "name": "Robert Johnson",
+            "gender": "M",
+            "age": 44,
+            "email": "owtar@pu.cd",
+            "satisfaction": 2,
+            "comment": "The products were not OK"
+        },
+        "couponUsed": false,
+        "purchaseMethod": "In store"
+    },
+    {
+        "saleNum": 7,
+        "saleDate":ISODate("2024-11-01T00:00:00Z"),
+        "items": [
+            {
+                "name": "laptop",
+                "tags": [
+                    "electronics",
+                    "school",
+                    "office"
+                ],
+                "price": 604.12,
+                "quantity": 4
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 11.05,
+                "quantity": 7
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 20.94,
+                "quantity": 5
+            },
+            {
+                "name": "backpack",
+                "tags": [
+                    "school",
+                    "travel",
+                    "kids"
+                ],
+                "price": 61.16,
+                "quantity": 5
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 29.81,
+                "quantity": 3
+            },
+            {
+                "name": "printer paper",
+                "tags": [
+                    "office",
+                    "stationary"
+                ],
+                "price": 31.19,
+                "quantity": 5
+            },
+            {
+                "name": "pens",
+                "tags": [
+                    "writing",
+                    "office",
+                    "school",
+                    "stationary"
+                ],
+                "price": 47.12,
+                "quantity": 1
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 36.71,
+                "quantity": 2
+            },
+            {
+                "name": "pens",
+                "tags": [
+                    "writing",
+                    "office",
+                    "school",
+                    "stationary"
+                ],
+                "price": 69.28,
+                "quantity": 3
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 14.05,
+                "quantity": 1
+            }
+        ],
+        "storeLocation": "London",
+        "customer": {
+            "passport": "85980159H",
+            "name": "Isabel Sorrento",
+            "gender": "F",
+            "age": 40,
+            "email": "pan@cak.zm",
+            "satisfaction": 5,
+            "comment": "High quality products, everithing OK"
+        },
+        "couponUsed": false,
+        "purchaseMethod": "In store"
+    },
+    {
+        "saleNum": 8,
+        "saleDate":ISODate("2024-06-12T00:00:00Z"),
+        "items": [
+            {
+                "name": "envelopes",
+                "tags": [
+                    "stationary",
+                    "office",
+                    "general"
+                ],
+                "price": 21.95,
+                "quantity": 8
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 5.45,
+                "quantity": 5
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 8.27,
+                "quantity": 4
+            },
+            {
+                "name": "backpack",
+                "tags": [
+                    "school",
+                    "travel",
+                    "kids"
+                ],
+                "price": 87.13,
+                "quantity": 2
+            },
+            {
+                "name": "envelopes",
+                "tags": [
+                    "stationary",
+                    "office",
+                    "general"
+                ],
+                "price": 11.79,
+                "quantity": 9
+            },
+            {
+                "name": "pens",
+                "tags": [
+                    "writing",
+                    "office",
+                    "school",
+                    "stationary"
+                ],
+                "price": 42.7,
+                "quantity": 4
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 23.71,
+                "quantity": 10
+            },
+            {
+                "name": "laptop",
+                "tags": [
+                    "electronics",
+                    "school",
+                    "office"
+                ],
+                "price": 584.56,
+                "quantity": 5
+            },
+            {
+                "name": "printer paper",
+                "tags": [
+                    "office",
+                    "stationary"
+                ],
+                "price": 46.71,
+                "quantity": 7
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 21.22,
+                "quantity": 10
+            }
+        ],
+        "storeLocation": "Leganes",
+        "customer": {
+            "passport": "90350138C",
+            "name": "Anthony Barber",
+            "gender": "M",
+            "age": 71,
+            "email": "man@bob.mz",
+            "satisfaction": 3,
+            "comment": "Everithing OK"
+        },
+        "couponUsed": false,
+        "purchaseMethod": "In store"
+    }
+]

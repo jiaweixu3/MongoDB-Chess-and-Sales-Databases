@@ -1,0 +1,99 @@
+    {
+        "saleNum": 9,
+        "saleDate":ISODate("2023-12-15T00:00:00Z"),
+        "items": [
+            {
+                "name": "envelopes",
+                "tags": [
+                    "stationary",
+                    "office",
+                    "general"
+                ],
+                "price": 16.97,
+                "quantity": 7
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 11.92,
+                "quantity": 5
+            },
+            {
+                "name": "laptop",
+                "tags": [
+                    "electronics",
+                    "school",
+                    "office"
+                ],
+                "price": 565.42,
+                "quantity": 4
+            },
+            {
+                "name": "notepad",
+                "tags": [
+                    "office",
+                    "writing",
+                    "school"
+                ],
+                "price": 12.83,
+                "quantity": 3
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 11.82,
+                "quantity": 8
+            },
+            {
+                "name": "envelopes",
+                "tags": [
+                    "stationary",
+                    "office",
+                    "general"
+                ],
+                "price": 24.57,
+                "quantity": 5
+            },
+            {
+                "name": "pens",
+                "tags": [
+                    "writing",
+                    "office",
+                    "school",
+                    "stationary"
+                ],
+                "price": 36.13,
+                "quantity": 5
+            },
+            {
+                "name": "binder",
+                "tags": [
+                    "school",
+                    "general",
+                    "organization"
+                ],
+                "price": 14.44,
+                "quantity": 9
+            }
+        ],
+        "storeLocation": "New York",
+        "customer": {
+            "passport": "43935008V",
+            "name": "Louis Pandolfini",
+            "gender": "M",
+            "age": 26,
+            "email": "rapifoozi@viupoen.bb",
+            "satisfaction": 5,
+            "comment": "Nice experiece, I will repeat!"
+        },
+        "couponUsed": true,
+        "purchaseMethod": "In store"
+    }
